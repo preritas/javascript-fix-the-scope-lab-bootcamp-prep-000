@@ -1,7 +1,7 @@
 var animal='dog'
 
 function myAnimal() {
-  animal='cat'; console.log(animal);}
+var animal='cat'; console.log(animal);}
   
 function yourAnimal() {
   // How can we make sure that this function
